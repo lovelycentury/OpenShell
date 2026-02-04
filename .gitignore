@@ -177,4 +177,4 @@ secrets/
 credentials/
 
 kubeconfig
-.skaffold_build.json
+.skaffold-build.json
